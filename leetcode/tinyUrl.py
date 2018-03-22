@@ -1,6 +1,9 @@
 import random
 
-
+"""
+    将一个厂url转为短链的方法
+    https://leetcode.com/problems/encode-and-decode-tinyurl/description/
+"""
 class Codes:
     def __init__(self):
         self.map = {}
